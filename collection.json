@@ -1,0 +1,21 @@
+{
+
+  "collection": [
+  
+  {
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv50/dope_walls_v50_60.png",
+      "size": "10",
+      "name": "Amoled"
+  },
+  {
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv50/dope_walls_v50_60.png",
+      "size": "10",
+      "name": "Animals"
+  },
+  {
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv50/dope_walls_v50_60.png",
+      "size": "10",
+      "name": "Cars"
+  }
+  ]
+  }
