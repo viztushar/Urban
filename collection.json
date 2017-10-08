@@ -1,7 +1,11 @@
 {
 
-  {"text" : "true"},
-
+   "text":[
+     {
+       "text": true
+     }
+   ],
+  
   "collection": [
    
   
