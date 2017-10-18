@@ -20,7 +20,7 @@
   },
   {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub/dope_wall_v87_17_thub.png",
-      "size": "29 wallpapers",
+      "size": "32 wallpapers",
       "name": "Animals"
   },
   {
@@ -30,17 +30,17 @@
   },
   {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v121_09_thub.png",
-      "size": "10 wallpapers",
+      "size": "32 wallpapers",
       "name": "Building"
   },
   {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v121_20_thub.png",
-      "size": "10 wallpapers",
+      "size": "13 wallpapers",
       "name": "Cars"
   },
   {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v121_12_thub.png",
-      "size": "01 wallpapers",
+      "size": "03 wallpapers",
       "name": "Floral"
   },
   {
@@ -48,14 +48,19 @@
       "size": "30 wallpapers",
       "name": "Football Walls"
     },
+	{
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v121_23_thub.png",
+      "size": "07 wallpapers",
+      "name": "Night Sky"
+  },
   {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v121_23_thub.png",
-      "size": "21 wallpapers",
+      "size": "31 wallpapers",
       "name": "People"
   },
   {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v121_08_thub.png",
-      "size": "08 wallpapers",
+      "size": "17 wallpapers",
       "name": "Sea"
   }
   ]
