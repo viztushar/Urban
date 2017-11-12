@@ -2,11 +2,91 @@
   "walls": [
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/user/dope_wall_v33.jpg",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/user/dope_wall_v33_thub.png",
-      "size": "470 Kb",
+       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/walls/dope_walls_v45_14.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub/dope_walls_v45_14_thub.png",
+      "size": "967 Kb",
       "name": "Wall Of The Day",
       "collection": "Others"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_01.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_01_thub.png",
+      "size": "578 Kb",
+      "name": "Amoled Walls v2 01",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_02.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_02_thub.png",
+      "size": "483 Kb",
+      "name": "Amoled Walls v2 02",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_03.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_03_thub.png",
+      "size": "488 Kb",
+      "name": "Amoled Walls v2 03",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_04.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_04_thub.png",
+      "size": "501 Kb",
+      "name": "Amoled Walls v2 04",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_05.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_05_thub.png",
+      "size": "453 Kb",
+      "name": "Amoled Walls v2 05",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_06.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_06_thub.png",
+      "size": "614 Kb",
+      "name": "Amoled Walls v2 06",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_07.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_07_thub.png",
+      "size": "504 Kb",
+      "name": "Amoled Walls v2 07",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_08.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_08_thub.png",
+      "size": "481 Kb",
+      "name": "Amoled Walls v2 08",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_09.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_09_thub.png",
+      "size": "606 Kb",
+      "name": "Amoled Walls v2 09",
+      "collection": "Amoled"
+    },
+    {
+      "author": "Osum Walls",
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_10.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_10_thub.png",
+      "size": "461 Kb",
+      "name": "Amoled Walls v2 10",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
@@ -16797,483 +16877,83 @@
   "new": [
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_01.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_01_thub.png",
-      "size": "3.62 MB",
-      "name": "DopeWalls v126 01",
-      "collection": "Sea"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_01.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_01_thub.png",
+      "size": "578 Kb",
+      "name": "Amoled Walls v2 01",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_02.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_02_thub.png",
-      "size": "1.22 MB",
-      "name": "DopeWalls v126 02",
-      "collection": "Others"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_02.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_02_thub.png",
+      "size": "483 Kb",
+      "name": "Amoled Walls v2 02",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_03.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_03_thub.png",
-      "size": "2.61 MB",
-      "name": "DopeWalls v126 03",
-      "collection": "Sea"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_03.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_03_thub.png",
+      "size": "488 Kb",
+      "name": "Amoled Walls v2 03",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_04.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_04_thub.png",
-      "size": "1.07 MB",
-      "name": "DopeWalls v126 04",
-      "collection": "Night Sky"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_04.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_04_thub.png",
+      "size": "501 Kb",
+      "name": "Amoled Walls v2 04",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_05.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_05_thub.png",
-      "size": "2.77 MB",
-      "name": "DopeWalls v126 05",
-      "collection": "Others"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_05.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_05_thub.png",
+      "size": "453 Kb",
+      "name": "Amoled Walls v2 05",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_06.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_06_thub.png",
-      "size": "973 Kb",
-      "name": "DopeWalls v126 06",
-      "collection": "Others"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_06.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_06_thub.png",
+      "size": "614 Kb",
+      "name": "Amoled Walls v2 06",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_07.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_07_thub.png",
-      "size": "2.74 MB",
-      "name": "DopeWalls v126 07",
-      "collection": "Night Sky"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_07.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_07_thub.png",
+      "size": "504 Kb",
+      "name": "Amoled Walls v2 07",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_08.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_08_thub.png",
-      "size": "2.91 MB",
-      "name": "DopeWalls v126 08",
-      "collection": "People"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_08.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_08_thub.png",
+      "size": "481 Kb",
+      "name": "Amoled Walls v2 08",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_09.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_09_thub.png",
-      "size": "2.89 MB",
-      "name": "DopeWalls v126 09",
-      "collection": "Night Sky"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_09.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_09_thub.png",
+      "size": "606 Kb",
+      "name": "Amoled Walls v2 09",
+      "collection": "Amoled"
     },
     {
       "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_10.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_10_thub.png",
-      "size": "2.67 MB",
-      "name": "DopeWalls v126 10",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_11.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_11_thub.png",
-      "size": "1.39 MB",
-      "name": "DopeWalls v126 11",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_12.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_12_thub.png",
-      "size": "2.41 MB",
-      "name": "DopeWalls v126 12",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_13.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_13_thub.png",
-      "size": "1.78 MB",
-      "name": "DopeWalls v126 13",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_14.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_14_thub.png",
-      "size": "2.85 MB",
-      "name": "DopeWalls v126 14",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_15.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_15_thub.png",
-      "size": "3.13 MB",
-      "name": "DopeWalls v126 15",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_16.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_16_thub.png",
-      "size": "2.95 MB",
-      "name": "DopeWalls v126 16",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_17.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_17_thub.png",
-      "size": "920 Kb",
-      "name": "DopeWalls v126 17",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_18.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_18_thub.png",
-      "size": "3.36 MB",
-      "name": "DopeWalls v126 18",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_19.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_19_thub.png",
-      "size": "3.59 MB",
-      "name": "DopeWalls v126 19",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_20.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_20_thub.png",
-      "size": "2.77 MB",
-      "name": "DopeWalls v126 20",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_21.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_21_thub.png",
-      "size": "1.41 MB",
-      "name": "DopeWalls v126 21",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_22.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_22_thub.png",
-      "size": "3.87 MB",
-      "name": "DopeWalls v126 22",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_23.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_23_thub.png",
-      "size": "2.95 MB",
-      "name": "DopeWalls v126 23",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_24.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_24_thub.png",
-      "size": "1.70 MB",
-      "name": "DopeWalls v126 24",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_25.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_25_thub.png",
-      "size": "1.55 MB",
-      "name": "DopeWalls v126 25",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_26.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_26_thub.png",
-      "size": "3.34 MB",
-      "name": "DopeWalls v126 26",
-      "collection": "Building"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_27.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_27_thub.png",
-      "size": "3.07 MB",
-      "name": "DopeWalls v126 27",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_28.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_28_thub.png",
-      "size": "3.20 MB",
-      "name": "DopeWalls v126 28",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_29.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_29_thub.png",
-      "size": "2.14 MB",
-      "name": "DopeWalls v126 29",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_30.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_30_thub.png",
-      "size": "3.41 MB",
-      "name": "DopeWalls v126 30",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_31.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_31_thub.png",
-      "size": "3.21 MB",
-      "name": "DopeWalls v126 31",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_32.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_32_thub.png",
-      "size": "3.67 MB",
-      "name": "DopeWalls v126 32",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_33.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_33_thub.png",
-      "size": "2.36 MB",
-      "name": "DopeWalls v126 33",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_34.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_34_thub.png",
-      "size": "2.72 MB",
-      "name": "DopeWalls v126 34",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_35.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_35_thub.png",
-      "size": "1.47 MB",
-      "name": "DopeWalls v126 35",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_36.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_36_thub.png",
-      "size": "2.80 MB",
-      "name": "DopeWalls v126 36",
-      "collection": "Building"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_37.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_37_thub.png",
-      "size": "1.58 MB",
-      "name": "DopeWalls v126 37",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_38.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_38_thub.png",
-      "size": "2.99 MB",
-      "name": "DopeWalls v126 38",
-      "collection": "Building"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_39.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_39_thub.png",
-      "size": "2.25 MB",
-      "name": "DopeWalls v126 39",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_40.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_40_thub.png",
-      "size": "2.47 MB",
-      "name": "DopeWalls v126 40",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_41.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_41_thub.png",
-      "size": "2.73 MB",
-      "name": "DopeWalls v126 41",
-      "collection": "Sea"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_42.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_42_thub.png",
-      "size": "2.65 MB",
-      "name": "DopeWalls v126 42",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_43.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_43_thub.png",
-      "size": "1.99 MB",
-      "name": "DopeWalls v126 43",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_44.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_44_thub.png",
-      "size": "2.90 MB",
-      "name": "DopeWalls v126 44",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_45.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_45_thub.png",
-      "size": "1.72 MB",
-      "name": "DopeWalls v126 45",
-      "collection": "Building"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_46.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_46_thub.png",
-      "size": "3.06 MB",
-      "name": "DopeWalls v126 46",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_47.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_47_thub.png",
-      "size": "943 Kb",
-      "name": "DopeWalls v126 47",
-      "collection": "Building"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_48.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_48_thub.png",
-      "size": "2.68 MB",
-      "name": "DopeWalls v126 48",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_49.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_49_thub.png",
-      "size": "2.33 MB",
-      "name": "DopeWalls v126 49",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_50.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_50_thub.png",
-      "size": "4.30 MB",
-      "name": "DopeWalls v126 50",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_51.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_51_thub.png",
-      "size": "2.64 MB",
-      "name": "DopeWalls v126 51",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_52.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_52_thub.png",
-      "size": "756 Kb",
-      "name": "DopeWalls v126 52",
-      "collection": "Night Sky"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_53.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_53_thub.png",
-      "size": "3.16 MB",
-      "name": "DopeWalls v126 53",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_54.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_54_thub.png",
-      "size": "2.13 MB",
-      "name": "DopeWalls v126 54",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_55.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_55_thub.png",
-      "size": "2.97 MB",
-      "name": "DopeWalls v126 55",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_56.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_56_thub.png",
-      "size": "2.60 MB",
-      "name": "DopeWalls v126 56",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_57.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_57_thub.png",
-      "size": "1.90 MB",
-      "name": "DopeWalls v126 57",
-      "collection": "Others"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_58.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_58_thub.png",
-      "size": "3.15 MB",
-      "name": "DopeWalls v126 58",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_59.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_59_thub.png",
-      "size": "1.35 MB",
-      "name": "DopeWalls v126 59",
-      "collection": "People"
-    },
-    {
-      "author": "Osum Walls",
-      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv126/DopeWalls_v126_60.png",
-      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v126_60_thub.png",
-      "size": "2.03 MB",
-      "name": "DopeWalls v126 60",
-      "collection": "People"
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/amoledwallsv2/Amoled_Walls_v2_10.png",
+      "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/Amoled_Walls_v2_10_thub.png",
+      "size": "461 Kb",
+      "name": "Amoled Walls v2 10",
+      "collection": "Amoled"
     }
   ]
 }
