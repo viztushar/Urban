@@ -50,12 +50,12 @@
     },
 	{
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v123_13_thub.png",
-      "size": "60 wallpapers",
+      "size": "70 wallpapers",
       "name": "Night Sky"
   },
   {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v121_23_thub.png",
-      "size": "173 wallpapers",
+      "size": "185 wallpapers",
       "name": "People"
   },
   {
@@ -65,8 +65,13 @@
   },
   {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub2/DopeWalls_v121_08_thub.png",
-      "size": "69 wallpapers",
+      "size": "74 wallpapers",
       "name": "Sea"
+  },
+  {
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v133_37_thub.png",
+      "size": "74 wallpapers",
+      "name": "Others"
   }
   ]
   }
