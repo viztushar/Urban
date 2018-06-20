@@ -2,6 +2,7 @@
   "walls": [
     {
       "author": "Osum Walls",
+	  "name": "Wall Of The Day",
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsv127/DopeWalls_v127_27.png",
       "thumb": "https://raw.githubusercontent.com/viztushar/Urban/master/thub3/DopeWalls_v127_27_thub.png",
       "size": "2.48 MB",
