@@ -1,5 +1,10 @@
 {
   "version": [
+  {
+      "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsthub/DopeWalls_v162_thub.png",
+      "size": "50 Walls",
+      "name": "DopeWalls v162"
+    },
     {
       "url": "https://raw.githubusercontent.com/viztushar/Urban/master/dopewallsthub/DopeWalls_v161_thub.png",
       "size": "61 Walls",
