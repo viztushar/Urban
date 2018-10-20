@@ -1,3 +1,6 @@
+# Privacy Policy
+Date of Last Revision: 20/10/18
+
 # 1. What type of information does UrbanWalls collect? 
 
 We are not collecting any user information.
