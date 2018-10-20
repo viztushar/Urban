@@ -3,7 +3,7 @@ Date of Last Revision: 20/10/18
 
 # 1. What type of information does UrbanWalls collect? 
 
-We are not collecting any user information.
+  We are not collecting any user information like username/email.
 
 # 2. Third Party Advertisers.
 
